@@ -1,0 +1,8 @@
+1.0.2
+- Added ability to set all artworks
+
+1.0.1
+- Added simplejson requirement
+
+1.0.0
+- Initial release

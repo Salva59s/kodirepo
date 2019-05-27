@@ -1,0 +1,36 @@
+<addon id="repository.angelo" name="Angelo Repository" version="3.3" provider-name="Angelo">
+	<extension point="xbmc.addon.repository" name="Angelo Repository">
+		<info compressed="false">http://angeloaddon.addonsrepository.com/zip/addon.xml</info>
+		<checksum>http://angeloaddon.addonsrepository.com/zip/addons.xml.md5</checksum>
+		<datadir zip="true">http://angeloaddon.addonsrepository.com/zip</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Angelo Official Repository</summary>
+		<description>Repository ufficiale di Angelo</description>
+<news>
+v3.3
+- Angeloaddon 2.3
+v3.1
+- Angeloaddon 2.0
+v3.0.6
+- Fix TvTap
+v3.0.5
+- ToolClear
+v3.0.4
+- Nuovo SportDevil
+v3.0.3
+- Speed test
+v3.0.2
+- Nuovi Moduli
+v3.0.1
+- Fix Moduli
+v3.0.0
+- Cambio Host
+v2.0.0
+- Nuovo Host
+v1.0.0
+- Beta 
+</news>
+		<platform>all</platform>
+	</extension>
+</addon>

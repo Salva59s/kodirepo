@@ -1,0 +1,14 @@
+=============================================================================
+- Version & Repository: https://github.com/Kodi-vStream/venom-xbmc-addons/releases
+- Participer: https://github.com/Kodi-vStream/venom-xbmc-addons/issues
+- Support: https://vstream.ga/
+=============================================================================
+=============================================================================
+- Auteurs : Venom, TmpName, Johngf, Arias800
+=============================================================================
+Merci au contributeur de la bêta.
+- Razorex/Kodigoal/chataigne73
+=============================================================================
+=============================================================================
+- https://github.com/Kodi-vStream/venom-xbmc-addons/commits/Beta
+=============================================================================

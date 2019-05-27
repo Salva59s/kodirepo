@@ -1,0 +1,52 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Inbox</name>
+            <path pathversion="1">special://envhome/Documents/Inbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>videolibrary</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.kod/videolibrary/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>downloads</name>
+            <path pathversion="1">/private/var/mobile/Containers/Data/Application/5E6EFF00-AE6E-4BDC-9760-F8047630AEA7/Documents/Kodi/userdata/addon_data/plugin.video.kod/downloads/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>Inbox</name>
+            <path pathversion="1">special://envhome/Documents/Inbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Inbox</name>
+            <path pathversion="1">special://envhome/Documents/Inbox/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>kodirepo</name>
+            <path pathversion="1">https://salva59s.github.io/kodirepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>addons</name>
+            <path pathversion="1">http://androidaba.com/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

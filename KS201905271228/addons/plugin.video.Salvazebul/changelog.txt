@@ -1,0 +1,8 @@
+v1.0.3
+- [COLOR blue][B] Migrazione servers[/B][/COLOR] 
+v1.0.2
+- [COLOR blue][B] Migliorie integrazione addon no Livestreem[/B][/COLOR] 
+v1.0.1
+- [COLOR blue][B] Fix apertura addon esterni[/B][/COLOR] 
+v1.0.0
+- [COLOR blue][B] Prima Realese[/B][/COLOR] 
