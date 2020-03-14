@@ -1,4 +1,3 @@
 # addonskodi
-kodiaddonsbysalva59S
-For my all configuration : 
-                        -
+KodiaddonSalva59s
+For my all configuration watch my video : https://youtu.be/ZQS-3wW9RoA
